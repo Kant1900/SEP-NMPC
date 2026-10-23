@@ -1,0 +1,72 @@
+/workspace/acados/interfaces/acados_template/acados_template/acados_code_gen_options.py:361: UserWarning: A path is provided for json_file. This is not supported. The json file will be written to the code_export_directory /workspace/SEP-NMPC/results/onboarding_static_acados/acados_build/c_generated_code instead.
+  warnings.warn(f"A path is provided for json_file. This is not supported. The json file will be written to the code_export_directory {self.code_export_directory} instead.")
+rm -f libacados_ocp_solver_ocp_sep_nmpc_rigid_load_d2cb91a7.so
+rm -f sep_nmpc_rigid_load_constraints/sep_nmpc_rigid_load_constr_h_0_fun_jac_uxt_zt.o sep_nmpc_rigid_load_constraints/sep_nmpc_rigid_load_constr_h_0_fun.o sep_nmpc_rigid_load_constraints/sep_nmpc_rigid_load_constr_h_fun_jac_uxt_zt.o sep_nmpc_rigid_load_constraints/sep_nmpc_rigid_load_constr_h_fun.o sep_nmpc_rigid_load_constraints/sep_nmpc_rigid_load_constr_h_e_fun_jac_uxt_zt.o sep_nmpc_rigid_load_constraints/sep_nmpc_rigid_load_constr_h_e_fun.o sep_nmpc_rigid_load_cost/sep_nmpc_rigid_load_cost_y_0_fun.o sep_nmpc_rigid_load_cost/sep_nmpc_rigid_load_cost_y_0_fun_jac_ut_xt.o sep_nmpc_rigid_load_cost/sep_nmpc_rigid_load_cost_y_fun.o sep_nmpc_rigid_load_cost/sep_nmpc_rigid_load_cost_y_fun_jac_ut_xt.o sep_nmpc_rigid_load_cost/sep_nmpc_rigid_load_cost_y_e_fun.o sep_nmpc_rigid_load_cost/sep_nmpc_rigid_load_cost_y_e_fun_jac_ut_xt.o acados_solver_ocp_sep_nmpc_rigid_load_d2cb91a7.o
+cc -fPIC -std=c99   -O2 -I/workspace/acados/include -I/workspace/acados/include/acados -I/workspace/acados/include/blasfeo/include -I/workspace/acados/include/hpipm/include  -c -o sep_nmpc_rigid_load_constraints/sep_nmpc_rigid_load_constr_h_0_fun_jac_uxt_zt.o sep_nmpc_rigid_load_constraints/sep_nmpc_rigid_load_constr_h_0_fun_jac_uxt_zt.c
+cc -fPIC -std=c99   -O2 -I/workspace/acados/include -I/workspace/acados/include/acados -I/workspace/acados/include/blasfeo/include -I/workspace/acados/include/hpipm/include  -c -o sep_nmpc_rigid_load_constraints/sep_nmpc_rigid_load_constr_h_0_fun.o sep_nmpc_rigid_load_constraints/sep_nmpc_rigid_load_constr_h_0_fun.c
+cc -fPIC -std=c99   -O2 -I/workspace/acados/include -I/workspace/acados/include/acados -I/workspace/acados/include/blasfeo/include -I/workspace/acados/include/hpipm/include  -c -o sep_nmpc_rigid_load_constraints/sep_nmpc_rigid_load_constr_h_fun_jac_uxt_zt.o sep_nmpc_rigid_load_constraints/sep_nmpc_rigid_load_constr_h_fun_jac_uxt_zt.c
+cc -fPIC -std=c99   -O2 -I/workspace/acados/include -I/workspace/acados/include/acados -I/workspace/acados/include/blasfeo/include -I/workspace/acados/include/hpipm/include  -c -o sep_nmpc_rigid_load_constraints/sep_nmpc_rigid_load_constr_h_fun.o sep_nmpc_rigid_load_constraints/sep_nmpc_rigid_load_constr_h_fun.c
+cc -fPIC -std=c99   -O2 -I/workspace/acados/include -I/workspace/acados/include/acados -I/workspace/acados/include/blasfeo/include -I/workspace/acados/include/hpipm/include  -c -o sep_nmpc_rigid_load_constraints/sep_nmpc_rigid_load_constr_h_e_fun_jac_uxt_zt.o sep_nmpc_rigid_load_constraints/sep_nmpc_rigid_load_constr_h_e_fun_jac_uxt_zt.c
+cc -fPIC -std=c99   -O2 -I/workspace/acados/include -I/workspace/acados/include/acados -I/workspace/acados/include/blasfeo/include -I/workspace/acados/include/hpipm/include  -c -o sep_nmpc_rigid_load_constraints/sep_nmpc_rigid_load_constr_h_e_fun.o sep_nmpc_rigid_load_constraints/sep_nmpc_rigid_load_constr_h_e_fun.c
+cc -fPIC -std=c99   -O2 -I/workspace/acados/include -I/workspace/acados/include/acados -I/workspace/acados/include/blasfeo/include -I/workspace/acados/include/hpipm/include  -c -o sep_nmpc_rigid_load_cost/sep_nmpc_rigid_load_cost_y_0_fun.o sep_nmpc_rigid_load_cost/sep_nmpc_rigid_load_cost_y_0_fun.c
+cc -fPIC -std=c99   -O2 -I/workspace/acados/include -I/workspace/acados/include/acados -I/workspace/acados/include/blasfeo/include -I/workspace/acados/include/hpipm/include  -c -o sep_nmpc_rigid_load_cost/sep_nmpc_rigid_load_cost_y_0_fun_jac_ut_xt.o sep_nmpc_rigid_load_cost/sep_nmpc_rigid_load_cost_y_0_fun_jac_ut_xt.c
+cc -fPIC -std=c99   -O2 -I/workspace/acados/include -I/workspace/acados/include/acados -I/workspace/acados/include/blasfeo/include -I/workspace/acados/include/hpipm/include  -c -o sep_nmpc_rigid_load_cost/sep_nmpc_rigid_load_cost_y_fun.o sep_nmpc_rigid_load_cost/sep_nmpc_rigid_load_cost_y_fun.c
+cc -fPIC -std=c99   -O2 -I/workspace/acados/include -I/workspace/acados/include/acados -I/workspace/acados/include/blasfeo/include -I/workspace/acados/include/hpipm/include  -c -o sep_nmpc_rigid_load_cost/sep_nmpc_rigid_load_cost_y_fun_jac_ut_xt.o sep_nmpc_rigid_load_cost/sep_nmpc_rigid_load_cost_y_fun_jac_ut_xt.c
+cc -fPIC -std=c99   -O2 -I/workspace/acados/include -I/workspace/acados/include/acados -I/workspace/acados/include/blasfeo/include -I/workspace/acados/include/hpipm/include  -c -o sep_nmpc_rigid_load_cost/sep_nmpc_rigid_load_cost_y_e_fun.o sep_nmpc_rigid_load_cost/sep_nmpc_rigid_load_cost_y_e_fun.c
+cc -fPIC -std=c99   -O2 -I/workspace/acados/include -I/workspace/acados/include/acados -I/workspace/acados/include/blasfeo/include -I/workspace/acados/include/hpipm/include  -c -o sep_nmpc_rigid_load_cost/sep_nmpc_rigid_load_cost_y_e_fun_jac_ut_xt.o sep_nmpc_rigid_load_cost/sep_nmpc_rigid_load_cost_y_e_fun_jac_ut_xt.c
+cc -fPIC -std=c99   -O2 -I/workspace/acados/include -I/workspace/acados/include/acados -I/workspace/acados/include/blasfeo/include -I/workspace/acados/include/hpipm/include  -c -o acados_solver_ocp_sep_nmpc_rigid_load_d2cb91a7.o acados_solver_ocp_sep_nmpc_rigid_load_d2cb91a7.c
+cc -fPIC -std=c99   -O2 -I/workspace/acados/include -I/workspace/acados/include/acados -I/workspace/acados/include/blasfeo/include -I/workspace/acados/include/hpipm/include  -c -o sep_nmpc_rigid_load_model/sep_nmpc_rigid_load_expl_ode_fun.o sep_nmpc_rigid_load_model/sep_nmpc_rigid_load_expl_ode_fun.c
+cc -fPIC -std=c99   -O2 -I/workspace/acados/include -I/workspace/acados/include/acados -I/workspace/acados/include/blasfeo/include -I/workspace/acados/include/hpipm/include  -c -o sep_nmpc_rigid_load_model/sep_nmpc_rigid_load_expl_vde_forw.o sep_nmpc_rigid_load_model/sep_nmpc_rigid_load_expl_vde_forw.c
+cc -fPIC -std=c99   -O2 -I/workspace/acados/include -I/workspace/acados/include/acados -I/workspace/acados/include/blasfeo/include -I/workspace/acados/include/hpipm/include  -c -o sep_nmpc_rigid_load_model/sep_nmpc_rigid_load_expl_vde_adj.o sep_nmpc_rigid_load_model/sep_nmpc_rigid_load_expl_vde_adj.c
+cc -shared sep_nmpc_rigid_load_constraints/sep_nmpc_rigid_load_constr_h_0_fun_jac_uxt_zt.o sep_nmpc_rigid_load_constraints/sep_nmpc_rigid_load_constr_h_0_fun.o sep_nmpc_rigid_load_constraints/sep_nmpc_rigid_load_constr_h_fun_jac_uxt_zt.o sep_nmpc_rigid_load_constraints/sep_nmpc_rigid_load_constr_h_fun.o sep_nmpc_rigid_load_constraints/sep_nmpc_rigid_load_constr_h_e_fun_jac_uxt_zt.o sep_nmpc_rigid_load_constraints/sep_nmpc_rigid_load_constr_h_e_fun.o sep_nmpc_rigid_load_cost/sep_nmpc_rigid_load_cost_y_0_fun.o sep_nmpc_rigid_load_cost/sep_nmpc_rigid_load_cost_y_0_fun_jac_ut_xt.o sep_nmpc_rigid_load_cost/sep_nmpc_rigid_load_cost_y_fun.o sep_nmpc_rigid_load_cost/sep_nmpc_rigid_load_cost_y_fun_jac_ut_xt.o sep_nmpc_rigid_load_cost/sep_nmpc_rigid_load_cost_y_e_fun.o sep_nmpc_rigid_load_cost/sep_nmpc_rigid_load_cost_y_e_fun_jac_ut_xt.o acados_solver_ocp_sep_nmpc_rigid_load_d2cb91a7.o sep_nmpc_rigid_load_model/sep_nmpc_rigid_load_expl_ode_fun.o sep_nmpc_rigid_load_model/sep_nmpc_rigid_load_expl_vde_forw.o sep_nmpc_rigid_load_model/sep_nmpc_rigid_load_expl_vde_adj.o -o libacados_ocp_solver_ocp_sep_nmpc_rigid_load_d2cb91a7.so -L/workspace/acados/lib -lacados -lhpipm -lblasfeo -lm \
+-L -l
+/workspace/sep-nmpc-venv/lib/python3.12/site-packages/casadi/casadi.py:913: FutureWarning: 
+casadi: a numpy function was called on a casadi value (issue #2959).
+This used legacy casadi 3.7.2 behaviour, where the result type follows
+the input:
+  - a numeric input (DM)       -> a plain numpy array
+  - a symbolic input (SX / MX) -> a casadi value, or an error if the
+                                  function has no casadi equivalent
+
+For a shape-correct, type-preserving result, opt in to the
+casadi-aware numpy support:
+
+    try:
+        ca.GlobalOptions.setNumpyMode(1)
+    except AttributeError:
+        pass
+
+Or use setNumpyMode(-1) to keep legacy behaviour silently.
+Shown once; run python with -W always to see every occurrence.
+
+  _w.warn(_NUMPY_LEGACY_NOTICE, FutureWarning)
+External functions generated in 137.299 ms.
+Templated solver code generated in 1658.206 ms.
+Build completed in 5606.921 ms.
+acados was compiled without OpenMP.
+WARNING: sampled constraint violation at step 0: pass=-8.51e-02, min_cb=1.78e-15, min_h=1.63e+00
+WARNING: sampled constraint violation at step 1: pass=-4.32e-01, min_cb=-1.31e-07, min_h=1.61e+00
+WARNING: sampled constraint violation at step 2: pass=-5.71e-01, min_cb=8.43e+00, min_h=1.56e+00
+WARNING: sampled constraint violation at step 3: pass=-2.26e+00, min_cb=1.60e-05, min_h=1.50e+00
+WARNING: sampled constraint violation at step 4: pass=-1.93e+00, min_cb=6.23e+00, min_h=1.44e+00
+WARNING: sampled constraint violation at step 5: pass=-3.69e-01, min_cb=2.50e+00, min_h=1.37e+00
+WARNING: sampled constraint violation at step 6: pass=-5.07e-02, min_cb=4.22e-07, min_h=1.30e+00
+step=10/100, t=0.50s, position=[ 0.458 -0.989  1.547], solve=25.6ms
+step=20/100, t=1.00s, position=[ 1.337 -0.877  1.458], solve=19.5ms
+step=30/100, t=1.50s, position=[ 2.264 -0.373  1.492], solve=18.0ms
+step=40/100, t=2.00s, position=[2.638 0.313 1.505], solve=17.9ms
+step=50/100, t=2.50s, position=[2.622 0.686 1.51 ], solve=20.7ms
+step=60/100, t=3.00s, position=[2.594 0.729 1.502], solve=18.8ms
+step=70/100, t=3.50s, position=[2.597 0.702 1.5  ], solve=18.8ms
+step=80/100, t=4.00s, position=[2.6   0.698 1.5  ], solve=18.9ms
+step=90/100, t=4.50s, position=[2.6   0.701 1.5  ], solve=18.2ms
+step=100/100, t=5.00s, position=[2.6 0.7 1.5], solve=24.4ms
+
+Completed 100/100 steps; solver=OK
+final position error [m]: 0.0003
+max swing angle [deg]: 31.405
+min passivity margin: -2.256e+00
+min HOCBF margin: -1.309e-07
+min sampled clearance [m]: 0.2121
+mean solver time [ms]: 20.74
+Artifacts: /workspace/SEP-NMPC/results/onboarding_static_acados

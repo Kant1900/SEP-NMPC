@@ -1,0 +1,2402 @@
+[
+  {
+    "step": 0,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      589.7221939892825,
+      0.005694868927806945,
+      1.3629752748234263,
+      133.96279488961983
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012122,
+    "horizon_min_passivity": -1.3629752748234263,
+    "horizon_min_cbf": 177548.76171346742,
+    "horizon_min_h": 19786.120001407053,
+    "horizon_min_psi1": 59299.341069959366,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19788.127182265358,
+    "terminal_min_psi1": 59370.644868619915
+  },
+  {
+    "step": 1,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      0.20160275302112973,
+      0.0016624346320111005,
+      0.2076205163963041,
+      0.014057221612760441
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012679,
+    "horizon_min_passivity": -0.2076205163963041,
+    "horizon_min_cbf": 177569.1776914065,
+    "horizon_min_h": 19786.65863162246,
+    "horizon_min_psi1": 59302.63681496831,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19788.183110615555,
+    "terminal_min_psi1": 59368.71622377087
+  },
+  {
+    "step": 2,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      0.023081269367014722,
+      1.2921027506079819e-05,
+      0.0018597225902067217,
+      0.00014174836408756543
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012464,
+    "horizon_min_passivity": -0.0018597225902067217,
+    "horizon_min_cbf": 177557.80197742837,
+    "horizon_min_h": 19786.407239867174,
+    "horizon_min_psi1": 59300.11382035449,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19788.291533064214,
+    "terminal_min_psi1": 59368.9471443428
+  },
+  {
+    "step": 3,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      0.02019113415710118,
+      5.189369182340142e-06,
+      0.0002467886769059618,
+      3.2513668209458474e-05
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.011827,
+    "horizon_min_passivity": -0.0002467886769059618,
+    "horizon_min_cbf": 177549.2981033528,
+    "horizon_min_h": 19785.634683423126,
+    "horizon_min_psi1": 59297.1527287534,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19788.532779269168,
+    "terminal_min_psi1": 59371.01393259315
+  },
+  {
+    "step": 4,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      0.0016604404139955974,
+      1.6963030589761674e-06,
+      0.00020280592323056906,
+      2.6694624232301585e-06
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.011856,
+    "horizon_min_passivity": -0.00020280592323056906,
+    "horizon_min_cbf": 177543.64044524656,
+    "horizon_min_h": 19785.110954411855,
+    "horizon_min_psi1": 59295.20390844468,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19788.676987018855,
+    "terminal_min_psi1": 59371.05170022401
+  },
+  {
+    "step": 5,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      0.002375998476756038,
+      1.9306562223653234e-06,
+      8.43054412645876e-08,
+      6.890933749994733e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.01202,
+    "horizon_min_passivity": -8.43054412645876e-08,
+    "horizon_min_cbf": 177538.18192406488,
+    "horizon_min_h": 19784.50164241177,
+    "horizon_min_psi1": 59293.22258969699,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19788.83840852843,
+    "terminal_min_psi1": 59371.02180227276
+  },
+  {
+    "step": 6,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      0.0016701355245065594,
+      2.4981605439566845e-06,
+      0.00021858972866180097,
+      3.1547252798352456e-06
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012028,
+    "horizon_min_passivity": -0.00021858972866180097,
+    "horizon_min_cbf": 177533.35889517132,
+    "horizon_min_h": 19783.872106809045,
+    "horizon_min_psi1": 59291.35418908379,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19789.000609378687,
+    "terminal_min_psi1": 59370.90347386955
+  },
+  {
+    "step": 7,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      0.0014855389656571183,
+      1.9525171230661e-06,
+      5.770887849792378e-08,
+      8.511463219187786e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.011848,
+    "horizon_min_passivity": -5.770887849792378e-08,
+    "horizon_min_cbf": 177529.15838402574,
+    "horizon_min_h": 19783.25508781942,
+    "horizon_min_psi1": 59289.644471732434,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19789.170950350384,
+    "terminal_min_psi1": 59370.799049275636
+  },
+  {
+    "step": 8,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      0.0009684922028054752,
+      1.7099650823360069e-06,
+      2.3963624474583352e-05,
+      7.87632975222763e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.01284,
+    "horizon_min_passivity": -2.3963624474583352e-05,
+    "horizon_min_cbf": 177525.29687376227,
+    "horizon_min_h": 19782.661258938304,
+    "horizon_min_psi1": 59288.04249273954,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19789.342782252177,
+    "terminal_min_psi1": 59370.69277414834
+  },
+  {
+    "step": 9,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      0.0006992708586323094,
+      1.4278796408375176e-06,
+      0.00028034162940472184,
+      3.2441965996080384e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.01214,
+    "horizon_min_passivity": -0.00028034162940472184,
+    "horizon_min_cbf": 177522.23357142202,
+    "horizon_min_h": 19782.09262512953,
+    "horizon_min_psi1": 59286.510441886945,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19789.520322045148,
+    "terminal_min_psi1": 59370.664237859564
+  },
+  {
+    "step": 10,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      0.000328245232280186,
+      1.5919183284230764e-06,
+      6.926091707258521e-07,
+      1.2531887273265822e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012901,
+    "horizon_min_passivity": -6.926091707258521e-07,
+    "horizon_min_cbf": 177519.8357396122,
+    "horizon_min_h": 19781.597022481616,
+    "horizon_min_psi1": 59285.21656716936,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19789.682840882906,
+    "terminal_min_psi1": 59370.60797668411
+  },
+  {
+    "step": 11,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      7.117483877362371e-05,
+      1.7456598295890156e-06,
+      3.237777225611056e-07,
+      1.0000000000000004e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.011828,
+    "horizon_min_passivity": -3.237777225611056e-07,
+    "horizon_min_cbf": 177518.19518190174,
+    "horizon_min_h": 19781.16614397367,
+    "horizon_min_psi1": 59284.177949717,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19789.840147450264,
+    "terminal_min_psi1": 59370.61339733005
+  },
+  {
+    "step": 12,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      0.000301483152288666,
+      1.806582371553355e-06,
+      1.2278628303647679e-05,
+      1.0000000000000123e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.011907,
+    "horizon_min_passivity": -1.2278628303647679e-05,
+    "horizon_min_cbf": 177517.16411260338,
+    "horizon_min_h": 19780.815180030524,
+    "horizon_min_psi1": 59283.391466882174,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19789.98008395831,
+    "terminal_min_psi1": 59370.62812712308
+  },
+  {
+    "step": 13,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      0.00027600557103625925,
+      1.6825603281818858e-06,
+      3.049005394008988e-08,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012151,
+    "horizon_min_passivity": -3.049005394008988e-08,
+    "horizon_min_cbf": 177516.5856027257,
+    "horizon_min_h": 19780.544731278387,
+    "horizon_min_psi1": 59282.82824578556,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.098371005774,
+    "terminal_min_psi1": 59370.641842086174
+  },
+  {
+    "step": 14,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      0.0003498391748130436,
+      1.4280939098252699e-06,
+      6.174051616394385e-08,
+      1.0000000000000001e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.01177,
+    "horizon_min_passivity": -6.174051616394385e-08,
+    "horizon_min_cbf": 177516.31304673833,
+    "horizon_min_h": 19780.345421417314,
+    "horizon_min_psi1": 59282.44707240457,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.194749440958,
+    "terminal_min_psi1": 59370.658382653186
+  },
+  {
+    "step": 15,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      0.00030012027980115194,
+      1.1170735259257141e-06,
+      6.022980364525242e-08,
+      1.0000000000000001e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012722,
+    "horizon_min_passivity": -6.022980364525242e-08,
+    "horizon_min_cbf": 177516.21315545004,
+    "horizon_min_h": 19780.208248827952,
+    "horizon_min_psi1": 59282.20557647387,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.268360186576,
+    "terminal_min_psi1": 59370.66982403722
+  },
+  {
+    "step": 16,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      0.00023709525451304572,
+      8.116518698152099e-07,
+      7.401529714310914e-08,
+      1.0000000000000001e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.011813,
+    "horizon_min_passivity": -7.401529714310914e-08,
+    "horizon_min_cbf": 177516.19242167834,
+    "horizon_min_h": 19780.12243809203,
+    "horizon_min_psi1": 59282.06572533009,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.31991451763,
+    "terminal_min_psi1": 59370.671173553754
+  },
+  {
+    "step": 17,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      0.0001600604775562134,
+      5.509258175290721e-07,
+      7.23356028378328e-08,
+      1.0000000000000001e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012031,
+    "horizon_min_passivity": -7.23356028378328e-08,
+    "horizon_min_cbf": 177516.19168968606,
+    "horizon_min_h": 19780.07298160345,
+    "horizon_min_psi1": 59281.99127599236,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.353250559197,
+    "terminal_min_psi1": 59370.362817667934
+  },
+  {
+    "step": 18,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      0.00011456840161534754,
+      3.46853816216811e-07,
+      1.0703321930653856e-05,
+      1.0000000000000107e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.01253,
+    "horizon_min_passivity": -1.0703321930653856e-05,
+    "horizon_min_cbf": 177524.30431541713,
+    "horizon_min_h": 19780.048440455717,
+    "horizon_min_psi1": 59281.95638778042,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.310483459474,
+    "terminal_min_psi1": 59370.1010276547
+  },
+  {
+    "step": 19,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      7.169340278330438e-05,
+      1.9919224619540602e-07,
+      3.7914933309341185e-05,
+      1.000000000000038e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.011744,
+    "horizon_min_passivity": -3.7914933309341185e-05,
+    "horizon_min_cbf": 177548.9551248851,
+    "horizon_min_h": 19780.039536625794,
+    "horizon_min_psi1": 59281.943000094594,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.232855161325,
+    "terminal_min_psi1": 59369.93667803117
+  },
+  {
+    "step": 20,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      8.403753187800553e-05,
+      1.0069097276192013e-07,
+      1.927149512182178e-05,
+      1.0000000000000193e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.01312,
+    "horizon_min_passivity": -1.927149512182178e-05,
+    "horizon_min_cbf": 177586.28298728677,
+    "horizon_min_h": 19780.039376808953,
+    "horizon_min_psi1": 59281.93996668269,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.172705675817,
+    "terminal_min_psi1": 59369.860212220934
+  },
+  {
+    "step": 21,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      0.00012420286332899717,
+      4.108558664914523e-08,
+      1.4448720320032243e-06,
+      1.0000000000000014e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012062,
+    "horizon_min_passivity": -1.4448720320032243e-06,
+    "horizon_min_cbf": 177632.8533961178,
+    "horizon_min_h": 19780.0432464718,
+    "horizon_min_psi1": 59281.94103738527,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.129949504048,
+    "terminal_min_psi1": 59369.86057115752
+  },
+  {
+    "step": 22,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      0.0001484103911257367,
+      1.955027607511428e-08,
+      6.654937369843039e-07,
+      1.0000000000000007e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.011941,
+    "horizon_min_passivity": -6.654937369843039e-07,
+    "horizon_min_cbf": 177685.67786649283,
+    "horizon_min_h": 19780.047913770522,
+    "horizon_min_psi1": 59281.94299281392,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.103877831134,
+    "terminal_min_psi1": 59369.92826725048
+  },
+  {
+    "step": 23,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      0.0001580270779939618,
+      1.9824513659144616e-08,
+      2.6491370827181368e-08,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012688,
+    "horizon_min_passivity": -2.6491370827181368e-08,
+    "horizon_min_cbf": 177742.16564460946,
+    "horizon_min_h": 19780.05193977158,
+    "horizon_min_psi1": 59281.94463543425,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.09331410814,
+    "terminal_min_psi1": 59370.04814806111
+  },
+  {
+    "step": 24,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      0.0001490930274689259,
+      2.2923576665687638e-08,
+      7.033106652628612e-07,
+      1.0000000000000007e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012103,
+    "horizon_min_passivity": -7.033106652628612e-07,
+    "horizon_min_cbf": 177796.7705414879,
+    "horizon_min_h": 19780.054505576583,
+    "horizon_min_psi1": 59281.945555673796,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.097110591738,
+    "terminal_min_psi1": 59370.211335384214
+  },
+  {
+    "step": 25,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      0.00012736889928404924,
+      3.082819219780292e-08,
+      1.979587098586573e-08,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012072,
+    "horizon_min_passivity": -1.979587098586573e-08,
+    "horizon_min_cbf": 177815.16361065424,
+    "horizon_min_h": 19780.055655616987,
+    "horizon_min_psi1": 59281.9458144356,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.11398083396,
+    "terminal_min_psi1": 59370.40628848885
+  },
+  {
+    "step": 26,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      0.0001023702469633821,
+      3.218259206957258e-08,
+      6.265746147625754e-07,
+      1.0000000000000006e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012325,
+    "horizon_min_passivity": -6.265746147625754e-07,
+    "horizon_min_cbf": 177838.62801146388,
+    "horizon_min_h": 19780.056435256054,
+    "horizon_min_psi1": 59283.833351521134,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.140787795364,
+    "terminal_min_psi1": 59370.612012130914
+  },
+  {
+    "step": 27,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      7.254229119071139e-05,
+      3.095063276200086e-08,
+      8.035170741245375e-09,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.01186,
+    "horizon_min_passivity": -8.035170741245375e-09,
+    "horizon_min_cbf": 177865.74783073622,
+    "horizon_min_h": 19780.056813871106,
+    "horizon_min_psi1": 59287.93484691645,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.174959394233,
+    "terminal_min_psi1": 59370.818891626164
+  },
+  {
+    "step": 28,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      9.564372897665093e-05,
+      2.918152969266785e-08,
+      9.58787490870635e-06,
+      1.219319957378127e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.015131,
+    "horizon_min_passivity": -9.58787490870635e-06,
+    "horizon_min_cbf": 177895.21772760747,
+    "horizon_min_h": 19780.05693221703,
+    "horizon_min_psi1": 59293.746759356574,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.21381236843,
+    "terminal_min_psi1": 59371.003706723954
+  },
+  {
+    "step": 29,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      0.00045088157523512015,
+      2.7686653485039375e-08,
+      1.2380720975778023e-05,
+      4.706439433319089e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012543,
+    "horizon_min_passivity": -1.2380720975778023e-05,
+    "horizon_min_cbf": 177925.87136086458,
+    "horizon_min_h": 19780.05693208256,
+    "horizon_min_psi1": 59300.79460603655,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.25470143254,
+    "terminal_min_psi1": 59371.065749064255
+  },
+  {
+    "step": 30,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      0.0008736699950929673,
+      2.0026723465335627e-08,
+      8.12391955912242e-06,
+      6.244754478225794e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012051,
+    "horizon_min_passivity": -8.12391955912242e-06,
+    "horizon_min_cbf": 177956.69619985714,
+    "horizon_min_h": 19780.056941801227,
+    "horizon_min_psi1": 59308.64304990489,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.283120209806,
+    "terminal_min_psi1": 59371.06868049065
+  },
+  {
+    "step": 31,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      0.0009050847645506445,
+      4.808962180292281e-08,
+      2.6125235139393943e-06,
+      3.466100296472661e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012349,
+    "horizon_min_passivity": -2.6125235139393943e-06,
+    "horizon_min_cbf": 177986.78745540555,
+    "horizon_min_h": 19780.056964099647,
+    "horizon_min_psi1": 59316.90418274206,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.285177723377,
+    "terminal_min_psi1": 59371.06391493893
+  },
+  {
+    "step": 32,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      0.0006189191400346062,
+      1.67539995945664e-08,
+      2.8148554975887774e-08,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012038,
+    "horizon_min_passivity": -2.8148554975887774e-08,
+    "horizon_min_cbf": 178015.528604945,
+    "horizon_min_h": 19780.057018219184,
+    "horizon_min_psi1": 59321.22701973857,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.290620448188,
+    "terminal_min_psi1": 59371.119971078726
+  },
+  {
+    "step": 33,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      0.00017771061047860775,
+      2.004507895910987e-08,
+      4.4550172495241763e-07,
+      1.0000000000000005e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012233,
+    "horizon_min_passivity": -4.4550172495241763e-07,
+    "horizon_min_cbf": 178042.27841094,
+    "horizon_min_h": 19780.057067134203,
+    "horizon_min_psi1": 59324.859774372555,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.29711057227,
+    "terminal_min_psi1": 59371.17374122586
+  },
+  {
+    "step": 34,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      5.854089402834072e-05,
+      1.7835155895771018e-08,
+      1.1256054076548665e-07,
+      1.0000000000000001e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.011781,
+    "horizon_min_passivity": -1.1256054076548665e-07,
+    "horizon_min_cbf": 178066.5706603421,
+    "horizon_min_h": 19780.057110810278,
+    "horizon_min_psi1": 59329.19394672688,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.303802375387,
+    "terminal_min_psi1": 59371.202189559765
+  },
+  {
+    "step": 35,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      6.0243408674988137e-05,
+      7.0645682739064325e-09,
+      1.2848812581149053e-07,
+      1.0000000000000001e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.011948,
+    "horizon_min_passivity": -1.2848812581149053e-07,
+    "horizon_min_cbf": 178088.06872787245,
+    "horizon_min_h": 19780.27249249707,
+    "horizon_min_psi1": 59333.993096813756,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.311769418357,
+    "terminal_min_psi1": 59371.21143512372
+  },
+  {
+    "step": 36,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      4.4853247557614245e-05,
+      4.516900951466625e-09,
+      2.2382315191075703e-09,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012737,
+    "horizon_min_passivity": -2.2382315191075703e-09,
+    "horizon_min_cbf": 178098.87531896675,
+    "horizon_min_h": 19780.772792778323,
+    "horizon_min_psi1": 59339.04282878146,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.32059724649,
+    "terminal_min_psi1": 59371.21809283838
+  },
+  {
+    "step": 37,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      4.900118629451444e-05,
+      4.454437055323446e-09,
+      9.590917448198831e-08,
+      1.0000000000000001e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.011857,
+    "horizon_min_passivity": -9.590917448198831e-08,
+    "horizon_min_cbf": 178098.5302142015,
+    "horizon_min_h": 19781.484203580516,
+    "horizon_min_psi1": 59344.15425473555,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.330057458883,
+    "terminal_min_psi1": 59371.219590806824
+  },
+  {
+    "step": 38,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      3.6464131550284495e-05,
+      3.1116037012626774e-09,
+      1.0576651780297213e-06,
+      1.000000000000001e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012032,
+    "horizon_min_passivity": -1.0576651780297213e-06,
+    "horizon_min_cbf": 178098.28639122262,
+    "horizon_min_h": 19782.341175913938,
+    "horizon_min_psi1": 59349.161107141925,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.34035712553,
+    "terminal_min_psi1": 59371.22188713121
+  },
+  {
+    "step": 39,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      2.8491337736871736e-05,
+      3.51975859309156e-09,
+      3.160916764877869e-09,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012267,
+    "horizon_min_passivity": -3.160916764877869e-09,
+    "horizon_min_cbf": 178098.07391598079,
+    "horizon_min_h": 19783.287450754226,
+    "horizon_min_psi1": 59354.564165029595,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.35015035223,
+    "terminal_min_psi1": 59371.21916631923
+  },
+  {
+    "step": 40,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      2.3834290132902433e-05,
+      2.3837993193970286e-09,
+      2.875726388359732e-07,
+      1.0000000000000002e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012033,
+    "horizon_min_passivity": -2.875726388359732e-07,
+    "horizon_min_cbf": 178097.8592583983,
+    "horizon_min_h": 19784.26654322114,
+    "horizon_min_psi1": 59358.2375362802,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.35986917276,
+    "terminal_min_psi1": 59371.21701743534
+  },
+  {
+    "step": 41,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      2.1235704005428914e-05,
+      2.6445779869712694e-09,
+      1.1386311135726452e-09,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012073,
+    "horizon_min_passivity": -1.1386311135726452e-09,
+    "horizon_min_cbf": 178097.66356588402,
+    "horizon_min_h": 19784.579688657705,
+    "horizon_min_psi1": 59360.83764436931,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.36889111828,
+    "terminal_min_psi1": 59371.21333303528
+  },
+  {
+    "step": 42,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      2.5444735976689974e-05,
+      3.1951101615271434e-09,
+      9.528096098352412e-08,
+      1.0000000000000001e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012417,
+    "horizon_min_passivity": -9.528096098352412e-08,
+    "horizon_min_cbf": 178097.50055490472,
+    "horizon_min_h": 19784.96051199469,
+    "horizon_min_psi1": 59363.023400920705,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.377257208067,
+    "terminal_min_psi1": 59371.209808581894
+  },
+  {
+    "step": 43,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      2.670850048525769e-05,
+      3.4256499575478945e-09,
+      6.357279616231069e-10,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.011942,
+    "horizon_min_passivity": -6.357279616231069e-10,
+    "horizon_min_cbf": 178097.37323054313,
+    "horizon_min_h": 19785.387303695803,
+    "horizon_min_psi1": 59365.096233042816,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.384631036486,
+    "terminal_min_psi1": 59371.20593888892
+  },
+  {
+    "step": 44,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      2.536472391708643e-05,
+      3.4647313150523316e-09,
+      4.2755825267507685e-10,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.0122,
+    "horizon_min_passivity": -4.2755825267507685e-10,
+    "horizon_min_cbf": 178097.27603818235,
+    "horizon_min_h": 19785.851256498285,
+    "horizon_min_psi1": 59367.17891398025,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.391045137796,
+    "terminal_min_psi1": 59371.202804564826
+  },
+  {
+    "step": 45,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      2.1666492795994704e-05,
+      3.223497122582851e-09,
+      1.9432163716344307e-10,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.011682,
+    "horizon_min_passivity": -1.9432163716344307e-10,
+    "horizon_min_cbf": 178097.20548636877,
+    "horizon_min_h": 19786.348571060927,
+    "horizon_min_psi1": 59368.95509647747,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.396309408654,
+    "terminal_min_psi1": 59371.19982990742
+  },
+  {
+    "step": 46,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      1.6725553848658355e-05,
+      2.745426204297808e-09,
+      8.088487881077986e-11,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012132,
+    "horizon_min_passivity": -8.088487881077986e-11,
+    "horizon_min_cbf": 178097.1566766353,
+    "horizon_min_h": 19786.87692761332,
+    "horizon_min_psi1": 59368.933748564974,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.400397820365,
+    "terminal_min_psi1": 59371.19687845832
+  },
+  {
+    "step": 47,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      1.1389074403551051e-05,
+      2.1593687055807193e-09,
+      1.5062001611171524e-10,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012305,
+    "horizon_min_passivity": -1.5062001611171524e-10,
+    "horizon_min_cbf": 178097.12795520213,
+    "horizon_min_h": 19787.42462666779,
+    "horizon_min_psi1": 59368.92010922891,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.40337950575,
+    "terminal_min_psi1": 59371.19400682506
+  },
+  {
+    "step": 48,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      8.613015886134293e-06,
+      1.5786939723453459e-09,
+      1.8697432213053275e-10,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.013209,
+    "horizon_min_passivity": -1.8697432213053275e-10,
+    "horizon_min_cbf": 178097.11261505666,
+    "horizon_min_h": 19787.964890125968,
+    "horizon_min_psi1": 59368.91093235603,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.40537185951,
+    "terminal_min_psi1": 59371.19132684691
+  },
+  {
+    "step": 49,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      7.399951539525289e-06,
+      1.074292315255711e-09,
+      1.8382961794899455e-07,
+      1.0000000000000002e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012609,
+    "horizon_min_passivity": -1.8382961794899455e-07,
+    "horizon_min_cbf": 178097.1054381976,
+    "horizon_min_h": 19788.470662391923,
+    "horizon_min_psi1": 59368.90580969732,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.40651523331,
+    "terminal_min_psi1": 59371.18895578704
+  },
+  {
+    "step": 50,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      5.8973161161832936e-06,
+      6.765356137515576e-10,
+      3.0070981098678004e-07,
+      1.0000000000000004e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012314,
+    "horizon_min_passivity": -3.0070981098678004e-07,
+    "horizon_min_cbf": 178097.10274457716,
+    "horizon_min_h": 19788.92433395646,
+    "horizon_min_psi1": 59368.90360904904,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.40695455788,
+    "terminal_min_psi1": 59371.18698188114
+  },
+  {
+    "step": 51,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      5.703557560878566e-06,
+      3.883871693154714e-10,
+      2.206880909872439e-07,
+      1.0000000000000002e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012305,
+    "horizon_min_passivity": -2.206880909872439e-07,
+    "horizon_min_cbf": 178097.1021443055,
+    "horizon_min_h": 19789.315869830756,
+    "horizon_min_psi1": 59368.90313522314,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.406829456635,
+    "terminal_min_psi1": 59371.18545729339
+  },
+  {
+    "step": 52,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      1.8412432665469234e-05,
+      1.8228394917899505e-10,
+      8.813156558297717e-08,
+      1.0000000000000001e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012074,
+    "horizon_min_passivity": -8.813156558297717e-08,
+    "horizon_min_cbf": 178097.10221511257,
+    "horizon_min_h": 19789.641155881214,
+    "horizon_min_psi1": 59368.90342040858,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.40642968622,
+    "terminal_min_psi1": 59371.18608510644
+  },
+  {
+    "step": 53,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      8.923267671909295e-06,
+      1.0020694410494834e-10,
+      7.955788664478776e-09,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.011886,
+    "horizon_min_passivity": -7.955788664478776e-09,
+    "horizon_min_cbf": 178097.10236509613,
+    "horizon_min_h": 19789.900560961567,
+    "horizon_min_psi1": 59368.90399387946,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.405713202097,
+    "terminal_min_psi1": 59371.18653846694
+  },
+  {
+    "step": 54,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      8.326741129533518e-06,
+      8.530976603306553e-11,
+      5.553745326967317e-10,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012217,
+    "horizon_min_passivity": -5.553745326967317e-10,
+    "horizon_min_cbf": 178097.62726745568,
+    "horizon_min_h": 19789.959003145155,
+    "horizon_min_psi1": 59368.90461600969,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.404690755557,
+    "terminal_min_psi1": 59371.18622981935
+  },
+  {
+    "step": 55,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      8.897541269971287e-06,
+      8.171128530742866e-11,
+      3.9086046365350905e-09,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.011744,
+    "horizon_min_passivity": -3.9086046365350905e-09,
+    "horizon_min_cbf": 178098.70944010356,
+    "horizon_min_h": 19789.959286504512,
+    "horizon_min_psi1": 59368.905102587734,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.40361853858,
+    "terminal_min_psi1": 59371.187058225296
+  },
+  {
+    "step": 56,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      8.73629287828962e-06,
+      7.696729711903494e-11,
+      1.5153871560983502e-10,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012091,
+    "horizon_min_passivity": -1.5153871560983502e-10,
+    "horizon_min_cbf": 178100.18988549235,
+    "horizon_min_h": 19789.959445011362,
+    "horizon_min_psi1": 59368.905333572075,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.402594036223,
+    "terminal_min_psi1": 59371.18864911402
+  },
+  {
+    "step": 57,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      8.081898029221467e-06,
+      7.55067406169041e-11,
+      2.137880837464738e-09,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.011844,
+    "horizon_min_passivity": -2.137880837464738e-09,
+    "horizon_min_cbf": 178101.92738107717,
+    "horizon_min_h": 19789.959528118743,
+    "horizon_min_psi1": 59368.90542989157,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.401608197702,
+    "terminal_min_psi1": 59371.19063406752
+  },
+  {
+    "step": 58,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      7.49076385135364e-06,
+      7.290624520585385e-11,
+      7.668144200446541e-11,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012564,
+    "horizon_min_passivity": -7.668144200446541e-11,
+    "horizon_min_cbf": 178103.79901829243,
+    "horizon_min_h": 19789.959544169393,
+    "horizon_min_psi1": 59368.90545292807,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.400607186104,
+    "terminal_min_psi1": 59371.19232250768
+  },
+  {
+    "step": 59,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      6.4543244224959506e-06,
+      7.256224544431632e-11,
+      9.518243436740886e-10,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012251,
+    "horizon_min_passivity": -9.518243436740886e-10,
+    "horizon_min_cbf": 178105.7099879926,
+    "horizon_min_h": 19789.959549694966,
+    "horizon_min_psi1": 59368.90546419672,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.399696265395,
+    "terminal_min_psi1": 59371.19399559532
+  },
+  {
+    "step": 60,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      5.3771495930142585e-06,
+      6.81912090745476e-11,
+      1.6098578299730518e-11,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012276,
+    "horizon_min_passivity": -1.6098578299730518e-11,
+    "horizon_min_cbf": 178107.08003440913,
+    "horizon_min_h": 19789.95955281988,
+    "horizon_min_psi1": 59368.9054699098,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.39888427191,
+    "terminal_min_psi1": 59371.19547616441
+  },
+  {
+    "step": 61,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      4.274289885209228e-06,
+      5.7192689278083575e-11,
+      3.331652469386353e-12,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012599,
+    "horizon_min_passivity": -3.331652469386353e-12,
+    "horizon_min_cbf": 178107.08048636062,
+    "horizon_min_h": 19789.95955460166,
+    "horizon_min_psi1": 59368.99320450423,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.398191908793,
+    "terminal_min_psi1": 59371.196750553034
+  },
+  {
+    "step": 62,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      3.1580797269295795e-06,
+      5.2942139240763636e-11,
+      1.156163939841695e-12,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.011829,
+    "horizon_min_passivity": -1.156163939841695e-12,
+    "horizon_min_cbf": 178107.0806999607,
+    "horizon_min_h": 19789.95955590009,
+    "horizon_min_psi1": 59369.15511434872,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.397654311575,
+    "terminal_min_psi1": 59371.19790318626
+  },
+  {
+    "step": 63,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      2.116317418859431e-06,
+      4.6604049637050387e-11,
+      5.235669428221303e-09,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012118,
+    "horizon_min_passivity": -5.235669428221303e-09,
+    "horizon_min_cbf": 178107.81637759862,
+    "horizon_min_h": 19789.959556946644,
+    "horizon_min_psi1": 59369.37424306039,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.39728182415,
+    "terminal_min_psi1": 59371.19896144847
+  },
+  {
+    "step": 64,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      1.4723513142884536e-06,
+      3.708393728933597e-11,
+      2.2293213844119993e-08,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012362,
+    "horizon_min_passivity": -2.2293213844119993e-08,
+    "horizon_min_cbf": 178108.92577254504,
+    "horizon_min_h": 19789.959557676968,
+    "horizon_min_psi1": 59369.6320246978,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.397065366767,
+    "terminal_min_psi1": 59371.19990889892
+  },
+  {
+    "step": 65,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      5.871191879120618e-06,
+      2.938031543004873e-11,
+      2.3017816182706167e-08,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.011745,
+    "horizon_min_passivity": -2.3017816182706167e-08,
+    "horizon_min_cbf": 178110.04788703535,
+    "horizon_min_h": 19789.959558381906,
+    "horizon_min_psi1": 59369.84299087829,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.396982366656,
+    "terminal_min_psi1": 59371.20028446836
+  },
+  {
+    "step": 66,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      1.6516617490152864e-05,
+      1.7218987268346784e-11,
+      1.3633159654979074e-08,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012027,
+    "horizon_min_passivity": -1.3633159654979074e-08,
+    "horizon_min_cbf": 178111.1450987419,
+    "horizon_min_h": 19789.967847338845,
+    "horizon_min_psi1": 59369.88291727986,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.3969538438,
+    "terminal_min_psi1": 59371.19957176026
+  },
+  {
+    "step": 67,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      3.567347617868075e-05,
+      8.78403366754224e-12,
+      5.583479985444439e-09,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.011888,
+    "horizon_min_passivity": -5.583479985444439e-09,
+    "horizon_min_cbf": 178112.1883302137,
+    "horizon_min_h": 19789.988127382305,
+    "horizon_min_psi1": 59369.97389219697,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.397051555086,
+    "terminal_min_psi1": 59371.199032645934
+  },
+  {
+    "step": 68,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      2.1019722705598772e-05,
+      1.751804533682219e-11,
+      1.3087402948836328e-09,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.011803,
+    "horizon_min_passivity": -1.3087402948836328e-09,
+    "horizon_min_cbf": 178113.1562508008,
+    "horizon_min_h": 19790.018224447103,
+    "horizon_min_psi1": 59370.104179927,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.397263331815,
+    "terminal_min_psi1": 59371.19942788463
+  },
+  {
+    "step": 69,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      2.0959803682332585e-05,
+      1.1509112835938334e-11,
+      1.2598147780596297e-10,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012829,
+    "horizon_min_passivity": -1.2598147780596297e-10,
+    "horizon_min_cbf": 178113.3217957525,
+    "horizon_min_h": 19790.05589912035,
+    "horizon_min_psi1": 59370.263030493996,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.39761248762,
+    "terminal_min_psi1": 59371.201531576546
+  },
+  {
+    "step": 70,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      7.339694669859842e-06,
+      5.637859374230808e-12,
+      7.664501740686687e-11,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012669,
+    "horizon_min_passivity": -7.664501740686687e-11,
+    "horizon_min_cbf": 178113.32002796658,
+    "horizon_min_h": 19790.09897454314,
+    "horizon_min_psi1": 59370.44601169836,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.397892313656,
+    "terminal_min_psi1": 59371.201586578565
+  },
+  {
+    "step": 71,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      4.785993446818091e-06,
+      5.979863522756479e-12,
+      1.8147239781340278e-12,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012345,
+    "horizon_min_passivity": -1.8147239781340278e-12,
+    "horizon_min_cbf": 178113.31378131246,
+    "horizon_min_h": 19790.114855091044,
+    "horizon_min_psi1": 59370.59511851624,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.398169177042,
+    "terminal_min_psi1": 59371.20136670619
+  },
+  {
+    "step": 72,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      3.4506792594266286e-06,
+      7.0793398812378505e-12,
+      3.789900809045183e-10,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.011927,
+    "horizon_min_passivity": -3.789900809045183e-10,
+    "horizon_min_cbf": 178113.30641928024,
+    "horizon_min_h": 19790.12923669709,
+    "horizon_min_psi1": 59370.712955345145,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.3984683896,
+    "terminal_min_psi1": 59371.201083380256
+  },
+  {
+    "step": 73,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      3.331976230811405e-06,
+      5.3743556913815604e-12,
+      4.312512123926608e-12,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012294,
+    "horizon_min_passivity": -4.312512123926608e-12,
+    "horizon_min_cbf": 178113.29879090886,
+    "horizon_min_h": 19790.14671845741,
+    "horizon_min_psi1": 59370.81460248964,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.39877052941,
+    "terminal_min_psi1": 59371.200786565954
+  },
+  {
+    "step": 74,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      1.963672760260127e-06,
+      4.298314525488789e-12,
+      5.945776829313502e-11,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012618,
+    "horizon_min_passivity": -5.945776829313502e-11,
+    "horizon_min_cbf": 178113.29154871035,
+    "horizon_min_h": 19790.166360117822,
+    "horizon_min_psi1": 59370.91061033036,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.399065009417,
+    "terminal_min_psi1": 59371.200465131085
+  },
+  {
+    "step": 75,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      1.811596723752415e-06,
+      4.344299220829088e-12,
+      2.5919409851191193e-10,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.011807,
+    "horizon_min_passivity": -2.5919409851191193e-10,
+    "horizon_min_cbf": 178113.28496918976,
+    "horizon_min_h": 19790.187727657056,
+    "horizon_min_psi1": 59371.00654089018,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.399350367756,
+    "terminal_min_psi1": 59371.20021772934
+  },
+  {
+    "step": 76,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      1.1089296762257023e-06,
+      4.375206574701231e-12,
+      2.108628500104832e-12,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012114,
+    "horizon_min_passivity": -2.108628500104832e-12,
+    "horizon_min_cbf": 178113.2794961377,
+    "horizon_min_h": 19790.21063161772,
+    "horizon_min_psi1": 59371.10474045351,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.39959906682,
+    "terminal_min_psi1": 59371.19993077402
+  },
+  {
+    "step": 77,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      9.879629120730708e-07,
+      4.559766807195169e-12,
+      2.402712909839428e-12,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.011956,
+    "horizon_min_passivity": -2.402712909839428e-12,
+    "horizon_min_cbf": 178113.27503785654,
+    "horizon_min_h": 19790.234975341453,
+    "horizon_min_psi1": 59371.14789825108,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.39982295308,
+    "terminal_min_psi1": 59371.199724050944
+  },
+  {
+    "step": 78,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      8.208715601611787e-07,
+      4.317674245309696e-12,
+      4.363669453911857e-11,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012669,
+    "horizon_min_passivity": -4.363669453911857e-11,
+    "horizon_min_cbf": 178113.27102009946,
+    "horizon_min_h": 19790.26067668267,
+    "horizon_min_psi1": 59371.14663880584,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.40000968646,
+    "terminal_min_psi1": 59371.199558721135
+  },
+  {
+    "step": 79,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      7.942717799415139e-07,
+      4.036017674218724e-12,
+      8.864946630927638e-13,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.011794,
+    "horizon_min_passivity": -8.864946630927638e-13,
+    "horizon_min_cbf": 178113.2675198054,
+    "horizon_min_h": 19790.28691012281,
+    "horizon_min_psi1": 59371.14574311154,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.400152362712,
+    "terminal_min_psi1": 59371.1994091783
+  },
+  {
+    "step": 80,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      8.501236498598895e-07,
+      3.377000694217448e-12,
+      5.225264901707257e-13,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.011824,
+    "horizon_min_passivity": -5.225264901707257e-13,
+    "horizon_min_cbf": 178113.2654802226,
+    "horizon_min_h": 19790.31227789257,
+    "horizon_min_psi1": 59371.14518730076,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.400255632838,
+    "terminal_min_psi1": 59371.199297765525
+  },
+  {
+    "step": 81,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      7.56261867509418e-07,
+      2.5578845349714957e-12,
+      4.683658895010138e-10,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.011897,
+    "horizon_min_passivity": -4.683658895010138e-10,
+    "horizon_min_cbf": 178113.26472552732,
+    "horizon_min_h": 19790.335741812585,
+    "horizon_min_psi1": 59371.14492970074,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.400320194472,
+    "terminal_min_psi1": 59371.199209214436
+  },
+  {
+    "step": 82,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      7.281577754632981e-07,
+      1.893520449214748e-12,
+      7.936598426939908e-10,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012151,
+    "horizon_min_passivity": -7.936598426939908e-10,
+    "horizon_min_cbf": 178113.26500191973,
+    "horizon_min_h": 19790.356618361388,
+    "horizon_min_psi1": 59371.14491532242,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.400349918786,
+    "terminal_min_psi1": 59371.19913764349
+  },
+  {
+    "step": 83,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      4.948878652655538e-07,
+      1.3548313336562805e-12,
+      6.46311290658909e-10,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.011892,
+    "horizon_min_passivity": -6.46311290658909e-10,
+    "horizon_min_cbf": 178113.26604353762,
+    "horizon_min_h": 19790.374515212417,
+    "horizon_min_psi1": 59371.14508552226,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.400349220185,
+    "terminal_min_psi1": 59371.1990753826
+  },
+  {
+    "step": 84,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      4.083188494050766e-07,
+      8.388667263267442e-13,
+      2.7289853770415346e-10,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012105,
+    "horizon_min_passivity": -2.7289853770415346e-10,
+    "horizon_min_cbf": 178113.26752932853,
+    "horizon_min_h": 19790.389273565714,
+    "horizon_min_psi1": 59371.14537046715,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.400327071828,
+    "terminal_min_psi1": 59371.19905236767
+  },
+  {
+    "step": 85,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      3.5581288209228507e-07,
+      4.4139782872873196e-13,
+      3.7351709481569085e-11,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012914,
+    "horizon_min_passivity": -3.7351709481569085e-11,
+    "horizon_min_cbf": 178113.26919039295,
+    "horizon_min_h": 19790.39158711572,
+    "horizon_min_psi1": 59371.145724922324,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.400288512803,
+    "terminal_min_psi1": 59371.199061173225
+  },
+  {
+    "step": 86,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      4.285036725959275e-07,
+      3.6581128937503626e-13,
+      4.302770292293947e-12,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.011872,
+    "horizon_min_passivity": -4.302770292293947e-12,
+    "horizon_min_cbf": 178113.26983243393,
+    "horizon_min_h": 19790.39168845029,
+    "horizon_min_psi1": 59371.14608775132,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.400239242244,
+    "terminal_min_psi1": 59371.199078508624
+  },
+  {
+    "step": 87,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      5.62421433652489e-07,
+      2.064888380724425e-13,
+      1.2919683830022414e-11,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.01214,
+    "horizon_min_passivity": -1.2919683830022414e-11,
+    "horizon_min_cbf": 178113.2704194848,
+    "horizon_min_h": 19790.391787656623,
+    "horizon_min_psi1": 59371.146418992445,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.400184828773,
+    "terminal_min_psi1": 59371.199133779795
+  },
+  {
+    "step": 88,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      6.576747478752515e-07,
+      2.9992585563569374e-13,
+      0.0,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012544,
+    "horizon_min_passivity": 1.9449217115321154e-11,
+    "horizon_min_cbf": 178113.27085529343,
+    "horizon_min_h": 19790.391872019834,
+    "horizon_min_psi1": 59371.14666799046,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.40013307003,
+    "terminal_min_psi1": 59371.19924375277
+  },
+  {
+    "step": 89,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      6.611709874064577e-07,
+      2.854190679375118e-13,
+      2.041492407863271e-11,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012155,
+    "horizon_min_passivity": -2.041492407863271e-11,
+    "horizon_min_cbf": 178113.2712680239,
+    "horizon_min_h": 19790.391948199966,
+    "horizon_min_psi1": 59371.14687258085,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.400066925195,
+    "terminal_min_psi1": 59371.199271549136
+  },
+  {
+    "step": 90,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      6.875877647147663e-07,
+      2.966204078148557e-13,
+      0.0,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.01254,
+    "horizon_min_passivity": 3.7748324298018635e-11,
+    "horizon_min_cbf": 178113.27689928937,
+    "horizon_min_h": 19790.392001484386,
+    "horizon_min_psi1": 59371.14701905782,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.400025292834,
+    "terminal_min_psi1": 59371.199433590366
+  },
+  {
+    "step": 91,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      7.723704802035988e-07,
+      3.6999236682246084e-13,
+      2.1518403989816534e-11,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.011975,
+    "horizon_min_passivity": -2.1518403989816534e-11,
+    "horizon_min_cbf": 178113.2775111553,
+    "horizon_min_h": 19790.392058874142,
+    "horizon_min_psi1": 59371.14715379854,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.3999595499,
+    "terminal_min_psi1": 59371.19944301121
+  },
+  {
+    "step": 92,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      6.053978389007748e-07,
+      2.1204429339239002e-13,
+      0.0,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.013018,
+    "horizon_min_passivity": 2.035087663609388e-11,
+    "horizon_min_cbf": 178113.27816976164,
+    "horizon_min_h": 19790.39208966636,
+    "horizon_min_psi1": 59371.14721874977,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.399926529306,
+    "terminal_min_psi1": 59371.19958806191
+  },
+  {
+    "step": 93,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      8.556401066130641e-07,
+      2.3838767153791757e-13,
+      0.0,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.011737,
+    "horizon_min_passivity": 2.071015939470181e-11,
+    "horizon_min_cbf": 178113.27868177052,
+    "horizon_min_h": 19790.39212157593,
+    "horizon_min_psi1": 59371.147293396454,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.39988683671,
+    "terminal_min_psi1": 59371.19964928746
+  },
+  {
+    "step": 94,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      4.054549301774902e-07,
+      1.4218788491654108e-13,
+      0.0,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012175,
+    "horizon_min_passivity": 2.3152733885720456e-11,
+    "horizon_min_cbf": 178113.27889166752,
+    "horizon_min_h": 19790.39213924512,
+    "horizon_min_psi1": 59371.147322962344,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.399859423986,
+    "terminal_min_psi1": 59371.19972132673
+  },
+  {
+    "step": 95,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      0.00015650069489706804,
+      9.922804261206994e-11,
+      3.5778863170053623e-09,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012584,
+    "horizon_min_passivity": -3.5778863170053623e-09,
+    "horizon_min_cbf": 178113.34334353622,
+    "horizon_min_h": 19790.392879302,
+    "horizon_min_psi1": 59371.15325496044,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.400253996533,
+    "terminal_min_psi1": 59371.196640588314
+  },
+  {
+    "step": 96,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      7.2257007648471235e-06,
+      4.9080074206175883e-11,
+      1.25657588757541e-10,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012374,
+    "horizon_min_passivity": -1.25657588757541e-10,
+    "horizon_min_cbf": 178113.32597785708,
+    "horizon_min_h": 19790.39249563029,
+    "horizon_min_psi1": 59371.14933121053,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.400015050294,
+    "terminal_min_psi1": 59371.20072306188
+  },
+  {
+    "step": 97,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      6.316054892072335e-06,
+      1.2270532016140333e-11,
+      2.2229772725612798e-10,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012101,
+    "horizon_min_passivity": -2.2229772725612798e-10,
+    "horizon_min_cbf": 178113.37128568644,
+    "horizon_min_h": 19790.392432305885,
+    "horizon_min_psi1": 59371.1487976654,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.39983804759,
+    "terminal_min_psi1": 59371.20001879659
+  },
+  {
+    "step": 98,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      2.476731685999388e-06,
+      8.74567782695743e-13,
+      3.910431103789158e-11,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.011804,
+    "horizon_min_passivity": -3.910431103789158e-11,
+    "horizon_min_cbf": 178113.42432068518,
+    "horizon_min_h": 19790.392441692984,
+    "horizon_min_psi1": 59371.1487746303,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.39978886331,
+    "terminal_min_psi1": 59371.199767206825
+  },
+  {
+    "step": 99,
+    "status": 0,
+    "residuals_stat_eq_ineq_comp": [
+      4.175735664080128e-06,
+      1.3289263217424949e-13,
+      1.2510684488085983e-12,
+      1e-07
+    ],
+    "qp_status": [
+      0.0,
+      2.0
+    ],
+    "time_tot": 0.012314,
+    "horizon_min_passivity": -1.2510684488085983e-12,
+    "horizon_min_cbf": 178113.47582859398,
+    "horizon_min_h": 19790.392448579958,
+    "horizon_min_psi1": 59371.14877458741,
+    "horizon_force_violation": 0.0,
+    "horizon_input_violation": 0.0,
+    "horizon_angle_violation": 0.0,
+    "terminal_min_h": 19790.399776885988,
+    "terminal_min_psi1": 59371.199506894205
+  }
+]

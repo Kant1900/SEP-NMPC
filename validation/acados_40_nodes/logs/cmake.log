@@ -1,0 +1,39 @@
+CMake Warning (deprecated) at CMakeLists.txt:9 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+This warning is for project developers.  Use -Wno-author or -Wno-deprecated
+to suppress it.
+
+-- Build type is Release
+-- ACADOS_WITH_OPENMP: OFF
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Using linear algebra: HIGH_PERFORMANCE
+-- Using matrix format: PANELMAJ
+-- Using external BLAS: 0
+-- Testing target GENERIC: assembly compilation [success]
+-- Testing target GENERIC: assembly run [success]
+-- Testing target GENERIC: intrinsic compilation [success]
+-- Testing target GENERIC: intrinsic run [success]
+-- Compiling for target: GENERIC
+-- HPIPM Target is GENERIC
+-- Using BLASFEO path: 
+-- Installation directory: /workspace/acados
+--  
+-- Target: BLASFEO is GENERIC, HPIPM is GENERIC
+-- Linear algebra: HIGH_PERFORMANCE
+-- Octave MEX (OFF)
+-- System name:version Linux:6.18.55
+-- Build type is Release
+-- Installation directory is /workspace/acados
+-- BUILD_SHARED_LIBS is ON
+-- OpenMP parallelization is OFF
+--  
+-- Git commit is 5b74695
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /workspace/acados/build
